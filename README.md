@@ -1,4 +1,4 @@
-# NEAR + Beackendless
+# NEAR + Backendless
 
 Hello everyone, here will be presented detailed instructions for creating a NEAR application using the no-code platform Backendless
 
