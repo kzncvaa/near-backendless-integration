@@ -11,7 +11,7 @@
 **Contents:**
 - [Authorization](https://github.com/kzncvaa/near-beackendless-integration/tree/main/1.Authorization)
 - [Parse seed phrase](https://github.com/kzncvaa/near-beackendless-integration/tree/main/2.Parse%20seed%20phrase)
-- [Get balance]()
+- [Get balance](https://github.com/kzncvaa/near-beackendless-integration/tree/main/3.Get%20balance)
 
 ### Also detailed video instructions are presented [here](https://www.youtube.com/watch?v=znv3wAwaavk&list=PL8baReAWcc9tUdzaFaaLo7Q5uGeEs8ert)
 
