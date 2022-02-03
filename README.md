@@ -2,19 +2,11 @@
 
 ## Hello everyone, here will be presented detailed instructions for creating a NEAR application using the no-code platform Backendless
 
-##### **_Important point!_** Backendless platform does not support external libraries
+##### 🔴 **_Important point!_** Backendless platform does not support external libraries
 
 ### The application is used NEAR API REST server
 > [GitHub]()  
 > [Documentation]()
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 **Contents:**
 - [Autorization](https://github.com/kzncvaa/near-beackendless-integration/tree/main/1.Authorization)
