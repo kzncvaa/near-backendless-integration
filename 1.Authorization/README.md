@@ -3,6 +3,7 @@
 ### Here is the login method
 
 **method** - `POST`   
+**path** - `/sign_ur`   
 **body**:  
 ```JSON
 {
