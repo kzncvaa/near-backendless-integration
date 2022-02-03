@@ -23,7 +23,6 @@
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | `account_id`                     | _Signer Account_                                                                                                        |
 | `receiver_id`                    | _Recipient contract account, may be dApp contract or personal account_                                                  |
-| `method`                         | _Contract method to call. Use `!transfer` to transfer NEAR tokens_                                                      |
 | `params`                         | _Transaction arguments_                                                                                                 |
 | `deposit`                        | _Attached deposit in NEAR_                                                                                              |
 | `gas`                            | _Attached gas in yoctoNEAR_                                                                                             |
