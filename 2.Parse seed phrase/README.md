@@ -11,8 +11,8 @@
 }
 ```     
 
-| Param         | Description                                                        |
-|---------------|--------------------------------------------------------------------|
+| Param         | Description                                                |
+|---------------|------------------------------------------------------------|
 | `seed_phrase` | _This mnemonic phrase can be obtained in your NEAR Wallet_ | 
 
 After receiving a response from the API, it needs to be cut and only the private key is taken
