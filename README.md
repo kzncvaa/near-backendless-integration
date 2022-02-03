@@ -5,8 +5,8 @@
 ##### 🔴 **_Important point!_** Backendless platform does not support external libraries
 
 ### The application is used NEAR API REST server
-> [GitHub]()  
-> [Documentation]()
+> [GitHub](https://github.com/near-examples/near-api-rest-server)  
+> [Documentation](https://docs.near.org/docs/api/rest-server/overview)
 
 **Contents:**
 - [Autorization](https://github.com/kzncvaa/near-beackendless-integration/tree/main/1.Authorization)
