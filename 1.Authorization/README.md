@@ -2,8 +2,8 @@
 
 ### Here is the login method
 
-method - `POST`   
-body:  
+**method** - `POST`   
+**body**:  
 ```JSON
 {
 	"account_id": "account.testnet",
