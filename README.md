@@ -15,7 +15,9 @@
 - [View method](https://github.com/kzncvaa/near-beackendless-integration/tree/main/4.View%20method)
 - [Call method](https://github.com/kzncvaa/near-beackendless-integration/tree/main/5.Call%20method)
 - [Transaction](https://github.com/kzncvaa/near-beackendless-integration/tree/main/6.Transaction)
-
+- [Mint NFT]()
+- [View NFT]()
+- [Transfer NFT]()
 ### Also detailed video instructions are presented [here](https://www.youtube.com/watch?v=znv3wAwaavk&list=PL8baReAWcc9tUdzaFaaLo7Q5uGeEs8ert)
 
 <img src="https://near.org/wp-content/uploads/2021/09/brand-stack-300x300.png" height="160">
