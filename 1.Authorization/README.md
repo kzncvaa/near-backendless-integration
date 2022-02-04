@@ -31,4 +31,26 @@
 | `network`                        | _Your network: mainnet/testnet_                                                                                         |
 
 
-<img src="../img/method_login.png" height="500px">
+<img src="../img/method_login.png" height="500px">  
+
+### After that, you need to create a method that will trim the private key from the server response
+
+**method** - `POST`   
+**URL** - `https://rpc.testnet.near.org`   
+**body**:
+```JSON
+{
+	"jsonrpc": "2.0",
+	"id": "dontcare",
+	"method": "tx",
+	"params": ["6zgh2u9DqHHiXzdy9ouTP7oGky2T4nugqzqt9wJZwNFm", "logged.testnet"]
+}
+```  
+
+| Param     | Description                                                                                                                              |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------|
+| `params`  | _transaction hash (see [NEAR Explorer](https://explorer.testnet.near.org/) for a valid transaction hash) and id account being logged in_ |
+
+
+<img src="../img/method_get_info_by_transaction.png" height="500px">  
+
