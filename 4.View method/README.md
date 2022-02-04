@@ -1,7 +1,7 @@
 # View method  
 
 **method** - `POST`  
-**path** - `/parse_seed_phrase`  
+**path** - `/view`  
 **body**:
 ```JSON
 {
