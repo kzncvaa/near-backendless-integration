@@ -30,5 +30,10 @@
 
 
 
-<img src="../img/method_transaction.png" height="500px">
+<img src="../img/method_transaction.png" height="500px">  
+
+# Using
+
+<img src="../img/using_method_transaction.png" height="900px">  
+
 

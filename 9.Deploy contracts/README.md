@@ -18,3 +18,7 @@
 | `contract`     | _wasm file of compiled contract located in the `/contracts` folder of this project._ |
 
 <img src="../img/method_deploy_contract.png" height="500px">
+
+# Using 
+
+<img src="../img/using_method_deploy.png" height="500px">

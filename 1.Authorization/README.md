@@ -52,5 +52,10 @@
 | `params`  | _transaction hash (see [NEAR Explorer](https://explorer.testnet.near.org/) for a valid transaction hash) and id account being logged in_ |
 
 
-<img src="../img/method_get_info_by_transaction.png" height="500px">  
+<img src="../img/method_get_info_by_transaction.png" height="500px">
 
+
+
+# Using
+
+<img src="../img/using_method_login.png" height="500px">

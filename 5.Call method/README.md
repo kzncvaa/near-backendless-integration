@@ -25,4 +25,9 @@
 | `attached_gas`                   | _Amount of gas you will be attaching to the call in [TGas](https://docs.near.org/docs/concepts/gas#thinking-in-gas)._ |
 | `attached_tokens`                | _Amount of tokens to be sent to the contract you are calling in yoctoNEAR (10^-24 NEAR)._                             |  
 
-<img src="../img/method_call.png" height="500px">
+<img src="../img/method_call.png" height="500px">  
+
+# Using
+
+<img src="../img/using_method_call.png" height="500px">  
+

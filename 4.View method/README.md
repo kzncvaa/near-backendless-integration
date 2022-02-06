@@ -16,4 +16,9 @@
 | `contract` | _Account id of the smart contract you are calling._                                       |
 | `method`   | _Name of the public method on the contract you are calling._                              |
 
-<img src="../img/method_view.png" height="500px">
+<img src="../img/method_view.png" height="500px">  
+
+# Using
+
+<img src="../img/method_view.png" height="500px">  
+

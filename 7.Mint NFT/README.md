@@ -22,3 +22,8 @@
 | `nft_contract`                   | _Account ID for the NFT contract your are minting on._ |  
 
 <img src="../img/method_mint_NFT.png" height="500px">
+
+# Using
+
+<img src="../img/using_method_mint_NFT.png" height="900px">
+
