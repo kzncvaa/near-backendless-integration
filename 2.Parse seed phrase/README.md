@@ -17,4 +17,8 @@
 
 After receiving a response from the API, it needs to be cut and only the private key is taken
 
-<img src="../img/method_parse_seed_phrase.png" height="500px">
+<img src="../img/method_parse_seed_phrase.png" height="500px">  
+
+# Using 
+
+<img src="../img/using_method_parse_seed_phrase.png" height="500px">  
