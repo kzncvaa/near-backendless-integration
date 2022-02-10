@@ -20,5 +20,5 @@
 
 # Using
 
-<img src="../img/method_view.png" height="500px">  
+<img src="../img/using_method_view.png" height="500px">  
 
